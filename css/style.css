@@ -161,11 +161,15 @@ p {
 .pricing-container h2 {
     font-size: 36px;
     margin-top: 0;
+    
 }
 
 .pricing-container p {
     font-size: 20px;
+    
+    
 }
-.plans-container{
+.plans-container {
     display: flex;
+    
 }
